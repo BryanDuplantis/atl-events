@@ -1,34 +1,34 @@
-Title,Date_Start,Date_End,Time,Location,Latitude,Longitude,Category,Is_Niche,Niche_Factor,Distance_Miles,Star_Rating
-VinylCon! Atlanta,2026-02-21,2026-02-22,10:00,Yaarab Shrine Center,33.8048,-84.3927,Community,True,Collector Culture,12.3,3
-Steamhouse Oysterfest,2026-02-21,2026-02-22,11:00,Midtown Atlanta,33.7866,-84.3832,Food,False,Food/Festival,13.6,2
-Learn to Curl (PCA),2026-02-27,,19:00,Peachtree Curling Association,33.98,-84.43,Niche,True,Hyper-Local Hobby,0.0,5
-TWICE 5th World Tour,2026-02-27,,20:00,State Farm Arena,33.7573,-84.3963,Music,False,K-Pop / Arena,15.5,1
-Beer Bourbon & BBQ Fest,2026-02-28,,12:00,Atlantic Station,33.7904,-84.3952,Food,False,Lifestyle,13.3,2
-Lanta Gras Parade,2026-02-28,,13:00,East Atlanta Village,33.74,-84.343,Community,True,Local/Quirky,17.3,3
-Pick Your Project Workshop,2026-02-28,,17:00,Board & Brush Kennesaw,34.0234,-84.6155,Niche,True,Woodworking,11.0,5
-Publix Atlanta Marathon,2026-03-01,,07:00,Centennial Olympic Park,33.7607,-84.3931,Sports,False,Pro Sports,15.3,1
-Artist Statement Bootcamp,2026-03-01,,14:00,ATL Photography Group,33.78,-84.388,Niche,True,Photography,14.0,3
-Nature Photo Workshop,2026-03-03,2026-03-30,,Larry Winslett Photography,34.01,-84.45,Niche,True,Photography,2.4,4
-404 Day Block Party,2026-03-04,,00:00,Downtown Atlanta,33.7537,-84.3863,Community,True,Hyper-Local,15.8,3
-Lady Gaga: Mayhem Ball,2026-03-04,2026-03-05,20:00,State Farm Arena,33.7573,-84.3963,Music,False,Major Concert,15.5,1
-Marietta the Gathering,2026-03-07,,10:00,Marietta Square,33.9526,-84.5499,Community,True,Hyper-Local Niche,7.1,4
-ATL United Home Opener,2026-03-07,,16:30,Mercedes-Benz Stadium,33.7553,-84.4006,Sports,False,Pro Sports,15.6,1
-Atlanta Brunch Festival,2026-03-07,2026-03-08,11:00,Atlantic Station,33.7904,-84.3952,Food,False,Food,13.3,2
-Blood Orange Concert,2026-03-09,,20:00,The Tabernacle,33.7589,-84.3916,Music,True,Indie/Niche Music,15.4,3
-Peach State Spiel,2026-03-12,2026-03-15,00:00,Peachtree Curling Association,33.98,-84.43,Niche,True,The Big Bonspiel,0.0,5
-St. Patrick's Parade 5K,2026-03-14,,09:45,Midtown Atlanta,33.7866,-84.3832,Sports,False,Local Sport,13.6,2
-KennyCon 26 (Gaming),2026-03-13,2026-03-14,10:00,Marietta Convention Center,33.9526,-84.5499,Niche,True,Tabletop Niche,7.1,4
-Cobb Library Book Sale,2026-03-13,2026-03-15,,Cobb Civic Center,33.953,-84.5466,Community,True,Local Community,6.9,5
-The Marriage of Figaro,2026-03-14,2026-03-22,,Cobb Energy Performing Arts Centre,33.9011,-84.4697,Arts,False,Arts/Opera,5.9,2
-Springtime at Gibbs Garden,2026-03-19,,10:00,Gibbs Gardens Ball Ground,34.37,-84.33,Niche,True,Photography Field Trip,27.5,3
-Eric Church: Machine Tour,2026-03-20,,19:30,State Farm Arena,33.7573,-84.3963,Music,False,Major Concert,15.5,1
-Cobb Library Book Fest,2026-03-21,,10:00,North Cobb Regional Library,34.03,-84.58,Community,True,Speaker Series,9.3,4
-Jonathan Richman,2026-03-21,,20:00,Terminal West,33.81,-84.41,Music,True,Niche Music,11.8,3
-Suwanee Beer Fest,2026-03-21,,13:00,Suwanee Town Center Park,34.0515,-84.0713,Food,False,North Metro,21.1,1
-Better Phone Photo Class,2026-03-25,,18:00,Larry Winslett Photography,34.01,-84.45,Niche,True,Photography,2.4,4
-Braves Opening Day,2026-03-26,,19:00,Truist Park,33.8911,-84.4681,Sports,False,Pro Sports,6.5,2
-HBCU Awarefest,2026-03-26,,19:30,State Farm Arena,33.7573,-84.3963,Community,False,Cultural,15.5,1
-Hayley Williams (Solo),2026-03-27,2026-03-28,19:00,The Tabernacle,33.7589,-84.3916,Music,False,Indie Rock,15.4,1
-USMNT vs. Belgium,2026-03-28,,19:00,Mercedes-Benz Stadium,33.7553,-84.4006,Sports,False,International Sport,15.6,1
-New Edition: The Way Tour,2026-03-29,,19:00,State Farm Arena,33.7573,-84.3963,Music,False,R&B/Legend,15.5,1
-Dancing With The Stars,2026-03-31,,19:30,Fox Theatre,33.7725,-84.3856,Entertainment,False,Entertainment,14.6,2
+Title,Date_Start,Date_End,Time,Location,Latitude,Longitude,Category,Is_Niche,Niche_Factor,Distance_Miles,Star_Rating,Display_Date,Display_Time,Star_Display,Card_Style,Chip_Label,Subtitle,Category_Color,Sort_Order
+VinylCon! Atlanta,2026-02-21,2026-02-22,10:00,Yaarab Shrine Center,33.8048,-84.3927,Community,True,Collector Culture,12.3,3,Feb 21-22,10:00 AM,★★★☆☆,large,Collector Culture,Yaarab Shrine Center · 10:00 AM · 12 mi away,#0984E3,3123
+Steamhouse Oysterfest,2026-02-21,2026-02-22,11:00,Midtown Atlanta,33.7866,-84.3832,Food,False,Food/Festival,13.6,2,Feb 21-22,11:00 AM,★★☆☆☆,compact,,Midtown Atlanta · 11:00 AM · 14 mi away,#FDCB6E,4136
+Learn to Curl (PCA),2026-02-27,,19:00,Peachtree Curling Association,33.98,-84.43,Niche,True,Hyper-Local Hobby,0.0,5,Feb 27,7:00 PM,★★★★★,large,Hyper-Local Hobby,Peachtree Curling Association · 7:00 PM · 0 mi away,#E17055,1000
+TWICE 5th World Tour,2026-02-27,,20:00,State Farm Arena,33.7573,-84.3963,Music,False,K-Pop / Arena,15.5,1,Feb 27,8:00 PM,★☆☆☆☆,compact,,State Farm Arena · 8:00 PM · 16 mi away,#6C5CE7,5155
+Beer Bourbon & BBQ Fest,2026-02-28,,12:00,Atlantic Station,33.7904,-84.3952,Food,False,Lifestyle,13.3,2,Feb 28,12:00 PM,★★☆☆☆,compact,,Atlantic Station · 12:00 PM · 13 mi away,#FDCB6E,4133
+Lanta Gras Parade,2026-02-28,,13:00,East Atlanta Village,33.74,-84.343,Community,True,Local/Quirky,17.3,3,Feb 28,1:00 PM,★★★☆☆,large,Local/Quirky,East Atlanta Village · 1:00 PM · 17 mi away,#0984E3,3173
+Pick Your Project Workshop,2026-02-28,,17:00,Board & Brush Kennesaw,34.0234,-84.6155,Niche,True,Woodworking,11.0,5,Feb 28,5:00 PM,★★★★★,large,Woodworking,Board & Brush Kennesaw · 5:00 PM · 11 mi away,#E17055,1110
+Publix Atlanta Marathon,2026-03-01,,07:00,Centennial Olympic Park,33.7607,-84.3931,Sports,False,Pro Sports,15.3,1,Mar 1,7:00 AM,★☆☆☆☆,compact,,Centennial Olympic Park · 7:00 AM · 15 mi away,#00B894,5153
+Artist Statement Bootcamp,2026-03-01,,14:00,ATL Photography Group,33.78,-84.388,Niche,True,Photography,14.0,3,Mar 1,2:00 PM,★★★☆☆,large,Photography,ATL Photography Group · 2:00 PM · 14 mi away,#E17055,3140
+Nature Photo Workshop,2026-03-03,2026-03-30,,Larry Winslett Photography,34.01,-84.45,Niche,True,Photography,2.4,4,Mar 3-30,TBD,★★★★☆,large,Photography,Larry Winslett Photography · TBD · 2 mi away,#E17055,2024
+404 Day Block Party,2026-03-04,,00:00,Downtown Atlanta,33.7537,-84.3863,Community,True,Hyper-Local,15.8,3,Mar 4,All Day,★★★☆☆,large,Hyper-Local,Downtown Atlanta · All Day · 16 mi away,#0984E3,3158
+Lady Gaga: Mayhem Ball,2026-03-04,2026-03-05,20:00,State Farm Arena,33.7573,-84.3963,Music,False,Major Concert,15.5,1,Mar 4-5,8:00 PM,★☆☆☆☆,compact,,State Farm Arena · 8:00 PM · 16 mi away,#6C5CE7,5155
+Marietta the Gathering,2026-03-07,,10:00,Marietta Square,33.9526,-84.5499,Community,True,Hyper-Local Niche,7.1,4,Mar 7,10:00 AM,★★★★☆,large,Hyper-Local Niche,Marietta Square · 10:00 AM · 7 mi away,#0984E3,2071
+ATL United Home Opener,2026-03-07,,16:30,Mercedes-Benz Stadium,33.7553,-84.4006,Sports,False,Pro Sports,15.6,1,Mar 7,4:30 PM,★☆☆☆☆,compact,,Mercedes-Benz Stadium · 4:30 PM · 16 mi away,#00B894,5156
+Atlanta Brunch Festival,2026-03-07,2026-03-08,11:00,Atlantic Station,33.7904,-84.3952,Food,False,Food,13.3,2,Mar 7-8,11:00 AM,★★☆☆☆,compact,,Atlantic Station · 11:00 AM · 13 mi away,#FDCB6E,4133
+Blood Orange Concert,2026-03-09,,20:00,The Tabernacle,33.7589,-84.3916,Music,True,Indie/Niche Music,15.4,3,Mar 9,8:00 PM,★★★☆☆,large,Indie/Niche Music,The Tabernacle · 8:00 PM · 15 mi away,#6C5CE7,3154
+Peach State Spiel,2026-03-12,2026-03-15,00:00,Peachtree Curling Association,33.98,-84.43,Niche,True,The Big Bonspiel,0.0,5,Mar 12-15,All Day,★★★★★,large,The Big Bonspiel,Peachtree Curling Association · All Day · 0 mi away,#E17055,1000
+St. Patrick's Parade 5K,2026-03-14,,09:45,Midtown Atlanta,33.7866,-84.3832,Sports,False,Local Sport,13.6,2,Mar 14,9:45 AM,★★☆☆☆,compact,,Midtown Atlanta · 9:45 AM · 14 mi away,#00B894,4136
+KennyCon 26 (Gaming),2026-03-13,2026-03-14,10:00,Marietta Convention Center,33.9526,-84.5499,Niche,True,Tabletop Niche,7.1,4,Mar 13-14,10:00 AM,★★★★☆,large,Tabletop Niche,Marietta Convention Center · 10:00 AM · 7 mi away,#E17055,2071
+Cobb Library Book Sale,2026-03-13,2026-03-15,,Cobb Civic Center,33.953,-84.5466,Community,True,Local Community,6.9,5,Mar 13-15,TBD,★★★★★,large,Local Community,Cobb Civic Center · TBD · 7 mi away,#0984E3,1069
+The Marriage of Figaro,2026-03-14,2026-03-22,,Cobb Energy Performing Arts Centre,33.9011,-84.4697,Arts,False,Arts/Opera,5.9,2,Mar 14-22,TBD,★★☆☆☆,compact,,Cobb Energy Performing Arts Centre · TBD · 6 mi away,#A29BFE,4059
+Springtime at Gibbs Garden,2026-03-19,,10:00,Gibbs Gardens Ball Ground,34.37,-84.33,Niche,True,Photography Field Trip,27.5,3,Mar 19,10:00 AM,★★★☆☆,large,Photography Field Trip,Gibbs Gardens Ball Ground · 10:00 AM · 28 mi away,#E17055,3275
+Eric Church: Machine Tour,2026-03-20,,19:30,State Farm Arena,33.7573,-84.3963,Music,False,Major Concert,15.5,1,Mar 20,7:30 PM,★☆☆☆☆,compact,,State Farm Arena · 7:30 PM · 16 mi away,#6C5CE7,5155
+Cobb Library Book Fest,2026-03-21,,10:00,North Cobb Regional Library,34.03,-84.58,Community,True,Speaker Series,9.3,4,Mar 21,10:00 AM,★★★★☆,large,Speaker Series,North Cobb Regional Library · 10:00 AM · 9 mi away,#0984E3,2093
+Jonathan Richman,2026-03-21,,20:00,Terminal West,33.81,-84.41,Music,True,Niche Music,11.8,3,Mar 21,8:00 PM,★★★☆☆,large,Niche Music,Terminal West · 8:00 PM · 12 mi away,#6C5CE7,3118
+Suwanee Beer Fest,2026-03-21,,13:00,Suwanee Town Center Park,34.0515,-84.0713,Food,False,North Metro,21.1,1,Mar 21,1:00 PM,★☆☆☆☆,compact,,Suwanee Town Center Park · 1:00 PM · 21 mi away,#FDCB6E,5211
+Better Phone Photo Class,2026-03-25,,18:00,Larry Winslett Photography,34.01,-84.45,Niche,True,Photography,2.4,4,Mar 25,6:00 PM,★★★★☆,large,Photography,Larry Winslett Photography · 6:00 PM · 2 mi away,#E17055,2024
+Braves Opening Day,2026-03-26,,19:00,Truist Park,33.8911,-84.4681,Sports,False,Pro Sports,6.5,2,Mar 26,7:00 PM,★★☆☆☆,compact,,Truist Park · 7:00 PM · 6 mi away,#00B894,4065
+HBCU Awarefest,2026-03-26,,19:30,State Farm Arena,33.7573,-84.3963,Community,False,Cultural,15.5,1,Mar 26,7:30 PM,★☆☆☆☆,compact,,State Farm Arena · 7:30 PM · 16 mi away,#0984E3,5155
+Hayley Williams (Solo),2026-03-27,2026-03-28,19:00,The Tabernacle,33.7589,-84.3916,Music,False,Indie Rock,15.4,1,Mar 27-28,7:00 PM,★☆☆☆☆,compact,,The Tabernacle · 7:00 PM · 15 mi away,#6C5CE7,5154
+USMNT vs. Belgium,2026-03-28,,19:00,Mercedes-Benz Stadium,33.7553,-84.4006,Sports,False,International Sport,15.6,1,Mar 28,7:00 PM,★☆☆☆☆,compact,,Mercedes-Benz Stadium · 7:00 PM · 16 mi away,#00B894,5156
+New Edition: The Way Tour,2026-03-29,,19:00,State Farm Arena,33.7573,-84.3963,Music,False,R&B/Legend,15.5,1,Mar 29,7:00 PM,★☆☆☆☆,compact,,State Farm Arena · 7:00 PM · 16 mi away,#6C5CE7,5155
+Dancing With The Stars,2026-03-31,,19:30,Fox Theatre,33.7725,-84.3856,Entertainment,False,Entertainment,14.6,2,Mar 31,7:30 PM,★★☆☆☆,compact,,Fox Theatre · 7:30 PM · 15 mi away,#E84393,4146
