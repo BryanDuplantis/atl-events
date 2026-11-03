@@ -12,7 +12,7 @@ events_raw.csv ──> normalize.py ──> events_glide.csv ──> push_to_she
 
 `normalize.py` reads each row of `events_raw.csv` and adds:
 
-- **Distance** from the center of home, using the haversine formula (miles).
+- **Distance** from a fixed home point, using the haversine formula (miles).
 - **Star rating, 1 to 5**, from the rules below.
 - **Display columns** for the app: a friendly date range ("Mar 3-30"), a 12-hour time ("7:00 PM", "All Day", "TBD"), a star string, a one-line subtitle, a category color, and a sort key that puts the best and nearest events first.
 
@@ -45,7 +45,7 @@ Running `normalize.py` on the committed `events_raw.csv` reproduces the committe
 
 ## Limits
 
-- The center point (home) and the interest tags are constants at the top of `normalize.py`, not settings.
+- The home point and the interest tags are constants at the top of `normalize.py`, not settings.
 - The input is a hand-built CSV with no scraper, so the data goes stale.
 - The scoring rules have never been tuned against real use.
 - No tests, and no handling for malformed rows beyond the date and time formatters.
