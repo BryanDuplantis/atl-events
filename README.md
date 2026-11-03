@@ -24,7 +24,7 @@ events_raw.csv ──> normalize.py ──> events_glide.csv ──> push_to_she
 | 2 | Any other event within 15 miles |
 | 1 | Everything else |
 
-On the sample data that gives 4 five-star, 5 four-star, 7 three-star, 7 two-star and 10 one-star events.
+On the sample data that gives 4 five-star, 4 four-star, 8 three-star, 6 two-star and 11 one-star events.
 
 `push_to_sheets.py` uploads the finished CSV to a Google Sheet with `gspread`, either creating a new sheet or updating one you name with `--sheet-id`. `GLIDE_SETUP.md` walks through binding the columns to a Glide app.
 

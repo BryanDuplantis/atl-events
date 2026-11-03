@@ -17,8 +17,8 @@ from pathlib import Path
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
-HOME_LAT = 33.98
-HOME_LON = -84.43
+HOME_LAT = 34.0
+HOME_LON = -84.4
 INTEREST_TAGS = ["hyper-local hobby", "woodworking", "the big bonspiel", "local community"]
 INPUT_FILE = Path(__file__).parent / "events_raw.csv"
 OUTPUT_FILE = Path(__file__).parent / "events_glide.csv"
